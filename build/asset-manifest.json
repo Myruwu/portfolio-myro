@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio-myro/static/css/main.d23f0795.css",
+    "main.js": "/portfolio-myro/static/js/main.69fd7eab.js",
+    "static/media/portfolio-hover2.gif": "/portfolio-myro/static/media/portfolio-hover2.dbfe0e8dcc441ffe6535.gif",
+    "static/media/portfolio-hover1.gif": "/portfolio-myro/static/media/portfolio-hover1.0839c9d2da2b6db2f0cc.gif",
+    "static/media/portfolio-hover3.gif": "/portfolio-myro/static/media/portfolio-hover3.48cd05a06781231d4f07.gif",
+    "static/media/site-bg.jpg": "/portfolio-myro/static/media/site-bg.9b38bd8e0c24cd8bccfd.jpg",
+    "static/media/avatar.png": "/portfolio-myro/static/media/avatar.c21cfadf523c0331611e.png",
+    "static/media/services.png": "/portfolio-myro/static/media/services.90eb6582a2764243dfc5.png",
+    "static/media/about.png": "/portfolio-myro/static/media/about.5220b2097785f506fc07.png",
+    "index.html": "/portfolio-myro/index.html",
+    "main.d23f0795.css.map": "/portfolio-myro/static/css/main.d23f0795.css.map",
+    "main.69fd7eab.js.map": "/portfolio-myro/static/js/main.69fd7eab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d23f0795.css",
+    "static/js/main.69fd7eab.js"
+  ]
+}
