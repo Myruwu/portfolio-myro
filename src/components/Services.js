@@ -67,7 +67,7 @@ const Services = () => {
             <div>
               {services.map((service, index) => {
                 // destructure service
-                const { name, description, link } = service;
+                const { name, description,} = service;
                 return (
                   <div
                     className='border-b border-white/20 h-[146px] mb-[38px] flex'

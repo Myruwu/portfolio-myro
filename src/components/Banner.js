@@ -2,7 +2,7 @@ import React from 'react';
 // images
 import Image from '../assets/avatar.png';
 // icons
-import { FaGithub, FaYoutube, FaDribbble, FaTiktok, FaFacebook, FaLinkedin } from 'react-icons/fa';
+import {FaTiktok, FaFacebook, FaLinkedin } from 'react-icons/fa';
 // type animation
 import { TypeAnimation } from 'react-type-animation';
 // motion
